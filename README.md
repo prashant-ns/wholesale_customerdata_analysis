@@ -6,4 +6,5 @@ The market for the sale of goods to a retailer is known as a wholesale market. A
 Initially, wholesalers used to be closer to the markets to which they supplied, rather than the source through which they got the products. In today’s scenario with the emergence of the internet and e-procurement, most of the retailers have started locating near the manufacturers. There are several channels which are being used to send the products.
 
 GOAL
+
 The main goal of this project is to analyze the wholesale market in certain states of the US. It is very important to analyze the current trend in demand of the customers, in order to avoid heavy losses. The supply of products should be as per the demand of the market. Both of these should go hand in hand in order to obtain profits. 
